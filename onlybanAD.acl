@@ -1312,6 +1312,7 @@
 (^|\.)\w*fbcdn\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
 (^|\.)\w*google\w*\.\w*$
+(^|\.)\w*google\w*\.\w*\.hk$
 (^|\.)\w*instagram\w*\.\w*$
 (^|\.)\w*spotify\w*\.\w*$
 (^|\.)\w*telegram\w*\.\w*$
